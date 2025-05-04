@@ -2,6 +2,7 @@
 
 This project aims to predict the compressive strength of concrete using an Artificial Neural Network (ANN) model. The dataset contains 8 input features related to concrete mix design and curing age, which significantly influence its final strength.
 
+
 **🔶 Features Used**
 
 - Cement: Amount of cement in kg/m³.
@@ -19,6 +20,7 @@ This project aims to predict the compressive strength of concrete using an Artif
 - Fine Aggregate: Fills voids; improves density.
 
 - Age: Number of days since casting; strength increases with time.
+  
 
 **⚙️ Data Preprocessing**
 
