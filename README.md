@@ -72,8 +72,6 @@ ANNs were effectively used to model the complex nonlinear relationship between c
 
 Perform hyperparameter tuning (learning rate, batch size, number of layers).
 
-Evaluate using cross-validation and more metrics (MAE, R²).
-
 Try regularization techniques (Dropout, L2) to reduce overfitting.
 
 Experiment with other models like Random Forest or XGBoost for comparison.
