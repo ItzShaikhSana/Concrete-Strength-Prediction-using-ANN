@@ -69,7 +69,8 @@ Matplotlib / Seaborn (optional for EDA)
 
 **✅ Conclusion**
 
-ANNs were effectively used to model the complex nonlinear relationship between concrete mix components and compressive strength. Model 2 significantly outperformed Model 1 with much lower loss values, indicating better generalization and predictive accuracy.
+ANNs were effectively used to model the complex nonlinear relationship between concrete mix components and compressive strength. 
+Model 2 significantly outperformed Model 1 with much lower loss values, indicating better generalization and predictive accuracy.
 
 **🚀 Future Work**
 
