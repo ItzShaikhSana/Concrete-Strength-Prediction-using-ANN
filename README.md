@@ -8,7 +8,7 @@ This project aims to predict the compressive strength of concrete using an Artif
 
 **🔶 Features Used**
 
-- Cement: Amount of cement in kilogram/m³.
+- Cement: Amount of cement in kg/m³.
 
 - Blast Furnace Slag: Enhances durability and strength.
 
